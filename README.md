@@ -1,5 +1,7 @@
 # school-1337 — Basic Simple Projects
 
+You can see all subject files and exercise sheets in the `all_subjects/`.
+
 These are my first 6 basic 1337/42 C projects. Each project is self-contained and includes a Makefile. To build a project, run `make` inside its folder.
 
 Number of projects: 6
